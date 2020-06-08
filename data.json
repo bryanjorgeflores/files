@@ -24,7 +24,7 @@
             "src": "assets/imgs/sudamericana.png"
         }, {
             "titulo": "Satélite",
-            "url": "https://stream.streamaudio.de:8000/estacion-satelite.xspf",
+            "url": "https://stream.streamaudio.de:8000/estacion-satelite",
             "src": "assets/imgs/satelite.png"
         }, {
             "titulo": "Radio Huancayo",
