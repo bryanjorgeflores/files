@@ -28,7 +28,7 @@
             "src": "assets/imgs/satelite.png"
         }, {
             "titulo": "Radio Huancayo",
-            "url": "http://212.83.146.67:7208/stream/1/;stream.mp3",
+            "url": "http://198.15.86.218:9386/;",
             "src": "assets/imgs/radiohuancayo.png"
         }, {
             "titulo": "RPP",
