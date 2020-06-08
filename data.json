@@ -16,7 +16,7 @@
         },
         {
             "titulo": "La Ochentera",
-            "url": "http://65.60.2.26:6052/;stream.mp3",
+            "url": "https://tupanel.info:2000/stream/laochentera/stream",
             "src": "assets/imgs/laochentera.jpg"
         }, {
             "titulo": "Sudamericana",
