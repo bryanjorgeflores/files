@@ -1,0 +1,13 @@
+{
+    "Favoritas": [{
+            "titulo": "Oxigeno",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.mp3",
+            "src": "assets/imgs/oxigeno.png"
+        },
+        {
+            "titulo": "Oasis FM",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac",
+            "src": "assets/imgs/oasis.png"
+        }
+    ]
+}
