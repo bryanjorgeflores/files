@@ -32,7 +32,7 @@
             "src": "assets/imgs/radiohuancayo.png"
         }, {
             "titulo": "RPP",
-            "url": "https://playerservices.streamtheworld.com/pls/RADIO_RPP.pls",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
             "src": "assets/imgs/rpp.png"
         }
     ]
