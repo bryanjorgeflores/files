@@ -8,6 +8,32 @@
             "titulo": "Oasis FM",
             "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac",
             "src": "assets/imgs/oasis.png"
+        },
+        {
+            "titulo": "Z Rock & Pop",
+            "url": "http://167.114.118.120:7440/;stream.mp3",
+            "src": "assets/imgs/zrock.png"
+        },
+        {
+            "titulo": "La Ochentera",
+            "url": "http://65.60.2.26:6052/;stream.mp3",
+            "src": "assets/imgs/laochentera.jpg"
+        }, {
+            "titulo": "Sudamericana",
+            "url": "http://167.114.118.119:7080/;stream.mp3",
+            "src": "assets/imgs/sudamericana.png"
+        }, {
+            "titulo": "Satélite",
+            "url": "https://stream.streamaudio.de:8000/estacion-satelite.xspf",
+            "src": "assets/imgs/satelite.png"
+        }, {
+            "titulo": "Radio Huancayo",
+            "url": "http://212.83.146.67:7208/stream/1/;stream.mp3",
+            "src": "assets/imgs/radiohuancayo.png"
+        }, {
+            "titulo": "RPP",
+            "url": "https://playerservices.streamtheworld.com/pls/RADIO_RPP.pls",
+            "src": "assets/imgs/rpp.png"
         }
     ]
 }
