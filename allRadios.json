@@ -1,0 +1,134 @@
+{
+    "General": [
+        {
+            "titulo": "Sudamericana",
+            "url": "http://167.114.118.119:7080/;stream.mp3",
+            "src": "assets/imgs/sudamericana.png"
+        },
+        {
+            "titulo": "Satélite",
+            "url": "https://stream.streamaudio.de:8000/estacion-satelite",
+            "src": "assets/imgs/satelite.png"
+        },
+        {
+            "titulo": "Radio Huancayo",
+            "url": "http://198.15.86.218:9386/;",
+            "src": "assets/imgs/radiohuancayo.png"
+        },
+        {
+            "titulo": "RPP",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
+            "src": "assets/imgs/rpp.png"
+        },
+        {
+            "titulo": "Oxígeno",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.mp3",
+            "src": "assets/imgs/oxigeno.png"
+        },
+        {
+            "titulo": "Ritmo Romántica",
+            "url": "ttps://18313.live.streamtheworld.com/CRP_RIT_SC",
+            "src": "assets/imgs/ritmoromantica.jpg"
+        },
+        {
+            "titulo": "Z Rock & Pop",
+            "url": "http://167.114.118.120:7440/;stream.mp3",
+            "src": "assets/imgs/zrock.png"
+        },
+        {
+            "titulo": "Oasis FM",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac",
+            "src": "assets/imgs/oasis.png"
+        },
+        {
+            "titulo": "Moda, Te mueve",
+            "url": "https://19483.live.streamtheworld.com/CRP_MOD_SC",
+            "src": "assets/imgs/moda.jpg"
+        },
+        {
+            "titulo": "La Ochentera",
+            "url": "https://tupanel.info:2000/stream/laochentera/stream",
+            "src": "assets/imgs/laochentera.jpg"
+        },
+        {
+            "titulo": "Planeta",
+            "url": "https://19013.live.streamtheworld.com/CRP_PLA_SC",
+            "src": "assets/imgs/planeta.jpg"
+        },
+        {
+            "titulo": "La Zona",
+            "url": "https://17833.live.streamtheworld.com/RADIO_LAZONA_SC",
+            "src": "assets/imgs/lazona.png"
+        },
+        {
+            "titulo": "Onda Cero",
+            "url": "http://192.99.148.184:6720/;*.nsv",
+            "src": "assets/imgs/ondacero.png"
+        },
+        {
+            "titulo": "Studio 92",
+            "url": "https://22203.live.streamtheworld.com/RADIO_STUDIO92.mp3",
+            "src": "assets/imgs/studio92.jpg"
+        },
+        {
+            "titulo": "Capital",
+            "url": "https://17833.live.streamtheworld.com/RADIO_CAPITAL_SC",
+            "src": "assets/imgs/capital.jpg"
+        },
+        {
+            "titulo": "Mágica",
+            "url": "https://18553.live.streamtheworld.com/MAG_SC",
+            "src": "assets/imgs/magica.png"
+        },
+        {
+            "titulo": "Exitosa",
+            "url": "http://167.114.118.120:7444/;",
+            "src": "assets/imgs/magica.png"
+        },
+        {
+            "titulo": "Corazón",
+            "url": "http://167.114.118.120:7444/;",
+            "src": "assets/imgs/corazon.jpg"
+        },
+        {
+            "titulo": "La Inolvidable",
+            "url": "https://14003.live.streamtheworld.com/CRP_LI_SC",
+            "src": "assets/imgs/lainolvidables.png"
+        },
+        {
+            "titulo": "Felicidad",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDAD_SC",
+            "src": "assets/imgs/felicidad.jpg"
+        },
+        {
+            "titulo": "Panamericana",
+            "url": "http://192.99.148.184:6710/;",
+            "src": "assets/imgs/panamericana.png"
+        },
+        {
+            "titulo": "Nueva Q",
+            "url": "https://19253.live.streamtheworld.com/CRP_NQ_SC",
+            "src": "assets/imgs/nuevaq.jpg"
+        },
+        {
+            "titulo": "La Kalle",
+            "url": "http://167.114.118.120:7448/;",
+            "src": "assets/imgs/lakalle.jpg"
+        },
+        {
+            "titulo": "Radiomar",
+            "url": "https://14613.live.streamtheworld.com/CRP_MAR_SC",
+            "src": "assets/imgs/radiomar.jpg"
+        },
+        {
+            "titulo": "Viva FM",
+            "url": "https://tupanel.info:8746/stream",
+            "src": "assets/imgs/vivafm.jpg"
+        },
+        {
+            "titulo": "La Karibeña",
+            "url": "https://tupanel.info:8746/stream",
+            "src": "assets/imgs/karibeña.jpg"
+        }
+    ]
+}
