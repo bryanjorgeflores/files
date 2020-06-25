@@ -130,10 +130,10 @@
             "url": "https://tupanel.info:8746/stream",
             "src": "assets/imgs/karibeña.jpg"
         },
-{
+        {
             "titulo": "BBC Radio 1",
             "url": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_one/format/pls.m3u",
-            "src": "assets/imgs/bbc.jpg"
+            "src": "assets/imgs/bbcradio1.jpg"
         }
     ]
 }
