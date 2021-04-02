@@ -11,6 +11,11 @@
             "src": "assets/imgs/radiotarma.jpg"
         },
         {
+            "titulo": "Radio Super A1",
+            "url": "http://radio.transmite.pe:9308/stream?icy=http",
+            "src": "assets/imgs/supera1.jpg"
+        },
+        {
             "titulo": "Satélite",
             "url": "https://stream.streamaudio.de:8000/estacion-satelite",
             "src": "assets/imgs/satelite.png"
