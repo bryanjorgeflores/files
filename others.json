@@ -1,0 +1,35 @@
+  
+{
+    "Radios": [
+        {
+            "titulo": "Doble Nueve",
+            "url": "https://conectperu.com/8002/stream",
+            "src": "assets/imgs/doblenueve.png"
+        },
+        {
+            "titulo": "Rock Antenne",
+            "url": "https://s1-webradio.rockantenne.de/heavy-metal/stream/mp3",
+            "src": "assets/imgs/rockantenne.png"
+        },
+        {
+            "titulo": "Rock Sour",
+            "url": "https://s2.radio.co/se3d84e29f/listen",
+            "src": "assets/imgs/rocksour.jpg"
+        },
+        {
+            "titulo": "BBC Radio 1",
+            "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+            "src": "assets/imgs/bbcradio1.jpg"
+        },
+        {
+            "titulo": "BBC Radio 2",
+            "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+            "src": "assets/imgs/bbcradio2.png"
+        },
+        {
+            "titulo": "Core Radio",
+            "url": "https://music.coreradio.ru/radio",
+            "src": "assets/imgs/coreradio.jpg"
+        }        
+    ]
+}
