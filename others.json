@@ -1,6 +1,21 @@
   
 {
     "Radios": [
+         {
+            "titulo": "Señal Pirata",
+            "url": "https://conectperu.com/8082/stream",
+            "src": "assets/imgs/senalpirata.png"
+        },
+        {
+            "titulo": "Radio Retro",
+            "url": "https://stream.zeno.fm/qkh618hcdm0uv",
+            "src": "assets/imgs/radioretro.jpg"
+        },
+      {
+            "titulo": "Radio Sonorama",
+            "url": " https://18733.live.streamtheworld.com:443/CRP_SON_S01_SC",
+            "src": "assets/imgs/sonorama.jpg"
+        },
         {
             "titulo": "Doble Nueve",
             "url": "https://conectperu.com/8002/stream",
