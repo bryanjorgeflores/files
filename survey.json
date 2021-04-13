@@ -1,0 +1,14 @@
+{
+  "id":1,
+  "question":"¿Que haces?",
+  "answers":[
+    {
+      "id":11,
+      "answer":"Comiendo"
+    },
+    {
+      "id":21,
+      "answer":"Durmiendo"
+    }
+  ]
+}
