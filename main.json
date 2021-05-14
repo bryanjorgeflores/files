@@ -32,7 +32,7 @@
         },
         {
             "titulo": "Oxígeno",
-            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO.mp3",
+            "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio",
             "src": "assets/imgs/oxigeno.png"
         },
         {
