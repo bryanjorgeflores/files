@@ -27,7 +27,7 @@
         },
         {
             "titulo": "RPP",
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPP.mp3",
+            "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio",
             "src": "assets/imgs/rpp.png"
         },
         {
@@ -57,7 +57,7 @@
         },
         {
             "titulo": "La Ochentera",
-            "url": "https://tupanel.info:2000/stream/laochentera/stream",
+            "url": "http://184.154.28.210:7200/stream",
             "src": "assets/imgs/laochentera.jpg"
         },
         {
@@ -67,7 +67,7 @@
         },
         {
             "titulo": "La Zona",
-            "url": "https://17833.live.streamtheworld.com/RADIO_LAZONA_SC",
+            "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
             "src": "assets/imgs/lazona.png"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "titulo": "Studio 92",
-            "url": "https://22203.live.streamtheworld.com/RADIO_STUDIO92.mp3",
+            "url": "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio",
             "src": "assets/imgs/studio92.jpg"
         },
         {
@@ -97,7 +97,7 @@
         },
         {
             "titulo": "Corazón",
-            "url": "https://15383.live.streamtheworld.com/RADIO_CORAZON_SC",
+            "url": "ttps://mdstrm.com/audio/5fada514fc16c006bd63370f//icecast.audio",
             "src": "assets/imgs/corazon.jpg"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "titulo": "Felicidad",
-            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDAD_SC",
+            "url": "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio",
             "src": "assets/imgs/felicidad.jpg"
         },
         {
