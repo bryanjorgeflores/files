@@ -1,0 +1,42 @@
+[
+    {
+        "title": "D'Perejil",
+        "category": "food",
+        "discount": "15 + 5%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/dperejil/",
+        "image_url": ""
+    },
+    {
+        "title": "Fuego Sabroso",
+        "category": "food",
+        "discount": "15%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/fuego.sabroso/",
+        "image_url": ""
+    },
+    {
+        "title": "Bamboo Balance",
+        "category": "beauty",
+        "discount": "15%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/bamboobalance/",
+        "image_url": ""
+    },
+    {
+        "title": "Gallo Volador",
+        "category": "art",
+        "discount": "Desde S/.35",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/gallovolador.oficial/",
+        "image_url": ""
+    },
+    {
+        "title": "Kan Pai!",
+        "category": "art",
+        "discount": "15%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/kanpai.pe/",
+        "image_url": ""
+    }
+]
