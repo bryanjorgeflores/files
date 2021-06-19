@@ -33,10 +33,50 @@
     },
     {
         "title": "Kan Pai!",
-        "category": "art",
+        "category": "drink",
         "discount": "15%",
         "code": "LAENCERRONA",
         "url": "https://www.instagram.com/kanpai.pe/",
+        "image_url": ""
+    },
+    {
+        "title": "Peruvian Fighters",
+        "category": "games",
+        "discount": "Gratis",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/galy_guy/",
+        "image_url": ""
+    },
+    {
+        "title": "Kattikas",
+        "category": "other",
+        "discount": "20%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/kattikacusco/",
+        "image_url": ""
+    },
+    {
+        "title": "Santuario de la Verónica",
+        "category": "other",
+        "discount": "20%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/santuariodelaveronica/",
+        "image_url": ""
+    },
+    {
+        "title": "Florencia y fortunata Café",
+        "category": "other",
+        "discount": "20%",
+        "code": "LAENCERRONA",
+        "url": "https://www.instagram.com/florenciayfortunata.cafe/",
+        "image_url": ""
+    },
+    {
+        "title": "Cirios Artesanales Taytacha",
+        "category": "other",
+        "discount": "+ 1 Cirio especial",
+        "code": "LAENCERRONA",
+        "url": "https://www.facebook.com/Cirios-Artesanales-Taytacha-105797167783132",
         "image_url": ""
     }
 ]
