@@ -1,0 +1,44 @@
+{
+    "Radios": [
+        {
+            "titulo": "Oxígeno",
+            "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio",
+            "src": "assets/imgs/oxigeno.png"
+        },
+        {
+            "titulo": "Ritmo Romántica",
+            "url": "https://17843.live.streamtheworld.com/CRP_RIT_SC",
+            "src": "assets/imgs/ritmoromantica.jpg"
+        },
+        {
+            "titulo": "Z Rock & Pop",
+            "url": "http://167.114.118.120:7440/;stream.mp3",
+            "src": "assets/imgs/zrock.png"
+        },
+        {
+            "titulo": "Oasis FM",
+            "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac",
+            "src": "assets/imgs/oasis.png"
+        },
+        {
+            "titulo": "Moda, Te mueve",
+            "url": "https://19483.live.streamtheworld.com/CRP_MOD_SC",
+            "src": "assets/imgs/moda.jpg"
+        },
+        {
+            "titulo": "La Ochentera",
+            "url": "http://184.154.28.210:7200/stream",
+            "src": "assets/imgs/laochentera.jpg"
+        },
+        {
+            "titulo": "Planeta",
+            "url": "https://19013.live.streamtheworld.com/CRP_PLA_SC",
+            "src": "assets/imgs/planeta.jpg"
+        },
+        {
+            "titulo": "La Zona",
+            "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+            "src": "assets/imgs/lazona.png"
+        }
+    ]
+}
